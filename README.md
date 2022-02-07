@@ -1,5 +1,5 @@
 # Server-WebMail-by-India-01-Cloud
-Cahier des charges:
+# Cahier des charges:
     - [ ] Web control panel
     - [ ] Nextcloud
     - [ ] Z-push
@@ -19,7 +19,7 @@ Cahier des charges:
     - [ ] FreeIPA (News compte = adresse mail)
     - [ ] Fonction création de masse d’adresse mail
 
-Prérequis:
+# Prérequis:
     - [ ] Serveur
     - [ ] Fibre PPPOE 1Gbt/s dédiée 
     - [ ] Onduleur 
