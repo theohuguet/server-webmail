@@ -22,5 +22,6 @@
 # Prérequis:
     - [ ] Serveur
     - [ ] Fibre Optique PPPOE 1Gbt/s dédiée 
-    - [ ] Onduleur 
+    - [ ] Onduleur
 
+ This project is under development. This project is the intellectual property of India-01® Any theft will result in legal action.
