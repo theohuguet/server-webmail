@@ -21,6 +21,6 @@
 
 # Prérequis:
     - [ ] Serveur
-    - [ ] Fibre PPPOE 1Gbt/s dédiée 
+    - [ ] Fibre Optique PPPOE 1Gbt/s dédiée 
     - [ ] Onduleur 
 
