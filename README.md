@@ -1,4 +1,4 @@
-# Server-WebMail-by-India-01-Cloud
+# Server WebMail by India-01® Cloud
 # Cahier des charges:
     - [ ] Web control panel
     - [ ] Nextcloud
