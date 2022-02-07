@@ -1,6 +1,6 @@
 # Server WebMail by India-01® Cloud
 # Cahier des charges:
-    - [ ] Web control panel
+    - [ ] Web control panel (AdminLTE)
     - [ ] Nextcloud
     - [ ] Z-push
     - [ ] Dovecot
