@@ -17,7 +17,6 @@
     - [ ] Backup
     - [ ] Replication vers autre serveur + Synchronisation entre serveur
     - [ ] FreeIPA (News compte = adresse mail)
-    - [ ] Fonction création de masse d’adresse mail
 
 # Prérequis:
     - [ ] Serveur
