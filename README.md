@@ -10,7 +10,6 @@
     - [ ] ReCaptcha
     - [ ] Spamassassin
     - [ ] Mysql
-    - [ ] phpmyadmin
     - [ ] Nginx
     - [ ] ReversProxy
     - [ ] DNS
