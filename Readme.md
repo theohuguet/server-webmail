@@ -8,6 +8,8 @@
     - [ ] OpenSSL / Let’s Encrypt
     - [ ] Fail2ban - AntiDDOS
     - [ ] ReCaptcha
+    - [ ] 2FA
+    - [ ] Option Mail cryptée
     - [ ] Spamassassin
     - [ ] Mysql
     - [ ] Nginx
