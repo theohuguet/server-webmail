@@ -21,6 +21,7 @@
 
 # Prérequis:
     - [ ] Serveur
+    - [ ] SAN
     - [ ] Fibre Optique PPPOE 1Gbt/s dédiée 
     - [ ] Onduleur
 
