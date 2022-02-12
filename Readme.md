@@ -17,7 +17,7 @@
     - [ ] DNS
     - [ ] Backup
     - [ ] Replication vers autre serveur + Synchronisation entre serveur
-    - [ ] FreeIPA (News compte = adresse mail)
+    - [ ] LDAP Serveur (News compte = adresse mail)
 
 # Prérequis:
     - [ ] Serveur
