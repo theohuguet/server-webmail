@@ -17,7 +17,6 @@
     - [ ] DNS
     - [ ] Backup
     - [ ] Replication vers autre serveur + Synchronisation entre serveur
-    - [ ] ACTIVE DIRECTORY connection
 
 # Prérequis:
     - [ ] Serveur
