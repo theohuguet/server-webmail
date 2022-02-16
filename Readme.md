@@ -17,7 +17,7 @@
     - [ ] DNS
     - [ ] Backup
     - [ ] Replication vers autre serveur + Synchronisation entre serveur
-    - [ ] LDAP Serveur (News compte = adresse mail)
+    - [ ] ACTIVE DIRECTORY connection
 
 # Prérequis:
     - [ ] Serveur
