@@ -13,7 +13,7 @@
     - [ ] Spamassassin
     - [ ] Mysql
     - [ ] Nginx
-    - [ ] ReversProxy (HTTPS, HTTP, SSH, PORT VIDEO GAME, PORT MAIL SERVER)
+    - [ ] ReversProxy (HTTPS, HTTP, SSH)
     - [ ] DNS
     - [ ] Backup
     - [ ] Replication vers autre serveur + Synchronisation entre serveur
