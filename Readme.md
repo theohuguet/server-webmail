@@ -7,6 +7,7 @@
     - [ ] Postfix
     - [ ] OpenSSL / Let’s Encrypt
     - [ ] Fail2ban - AntiDDOS
+    - [ ] Clamav
     - [ ] ReCaptcha
     - [ ] 2FA
     - [ ] Option Mail cryptée
