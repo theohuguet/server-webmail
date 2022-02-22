@@ -9,7 +9,7 @@
     - [ ] Fail2ban - AntiDDOS
     - [ ] Clamav
     - [ ] 2FA
-    - [ ] Option Mail cryptée
+    - [ ] Option Mail cryptée (pas disponible)
     - [ ] Spamassassin
     - [ ] Mysql
     - [ ] Nginx
