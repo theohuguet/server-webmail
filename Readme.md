@@ -16,7 +16,7 @@
     - [ ] ReversProxy (HTTPS/HTTP, SSH, FTP/SFTP, ...)
     - [ ] DNS
     - [ ] Backup
-    - [ ] Replication vers autre serveur + Synchronisation entre serveur
+    - [ ] Server Sync
 
 # Prérequis:
     - [ ] Serveur
