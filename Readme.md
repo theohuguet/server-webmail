@@ -9,7 +9,6 @@
     - [ ] Fail2ban - AntiDDOS
     - [ ] Clamav
     - [ ] 2FA
-    - [ ] Option Mail cryptée (pas disponible)
     - [ ] Spamassassin
     - [ ] Mysql
     - [ ] Nginx
@@ -17,6 +16,7 @@
     - [ ] DNS
     - [ ] Backup
     - [ ] Server Sync
+    - [ ] Server Sync Active Directory
 
 # Prérequis:
     - [ ] Serveur
