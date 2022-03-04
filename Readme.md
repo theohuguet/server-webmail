@@ -6,7 +6,7 @@
     - [ ] Dovecot
     - [ ] Postfix
     - [ ] OpenSSL / Let’s Encrypt
-    - [ ] Fail2ban - AntiDDOS
+    - [ ] Fail2ban
     - [ ] Clamav
     - [ ] 2FA
     - [ ] Spamassassin
