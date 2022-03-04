@@ -8,7 +8,6 @@
     - [ ] OpenSSL / Let’s Encrypt
     - [ ] Fail2ban
     - [ ] Clamav
-    - [ ] 2FA
     - [ ] Spamassassin
     - [ ] Mysql
     - [ ] Nginx
