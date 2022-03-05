@@ -18,7 +18,8 @@
     - [ ] Server Sync Active Directory
 
 # Prérequis:
-    - [ ] Serveur
+    - [ ] Serveur Mail
+    - [ ] Serveur Web
     - [ ] Fibre Optique PPPOE 1Gbt/s dédiée 
     - [ ] Onduleur
 
